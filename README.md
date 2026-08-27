@@ -2,7 +2,7 @@
 
 > 专为 Android TV 和手机优化的视频应用
 
-![Version](https://img.shields.io/badge/version-2.2.6-blue)
+![Version](https://img.shields.io/badge/version-2.2.7-blue)
 ![Platform](https://img.shields.io/badge/platform-Android%20TV%20%7C%20Phone-green)
 ![API](https://img.shields.io/badge/API-21%2B-orange)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
@@ -55,14 +55,14 @@
 ## ⬇️ 下载安装
 
 ### 安卓版
-- **最新版本**：v2.2.6
-- **下载地址**：[AiTouTouAndroid_v2.2.6.apk](https://gh-proxy.org/https://github.com/aitoutou-com/aitoutou/releases/download/v2.2.6/AiTouTouAndroid_v2.2.6.apk)
-- **网页下载**：[aitoutou.com/3550.html](https://www.aitoutou.com/3550.html?v=AiTouTouAndroid_v2.2.6)
+- **最新版本**：v2.2.7
+- **下载地址**：[AiTouTouAndroid_v2.2.7.apk](https://gh-proxy.org/https://github.com/aitoutou-com/aitoutou/releases/download/v2.2.7/AiTouTouAndroid_v2.2.7.apk)
+- **网页下载**：[aitoutou.com/3550.html](https://www.aitoutou.com/3550.html?v=AiTouTouAndroid_v2.2.7)
 
 ### Windows 版
-- **最新版本**：v2.2.6
-- **下载地址**：[AiTouTouWin_v2.2.6.exe](https://gh-proxy.org/https://github.com/aitoutou-com/aitoutou/releases/download/v2.2.6/AiTouTouWin_v2.2.6.exe)
-- **网页下载**：[aitoutou.com/3550.html](https://www.aitoutou.com/3550.html?v=AiTouTouWin_v2.2.6)
+- **最新版本**：v2.2.7
+- **下载地址**：[AiTouTouWin_v2.2.7.exe](https://gh-proxy.org/https://github.com/aitoutou-com/aitoutou/releases/download/v2.2.7/AiTouTouWin_v2.2.7.exe)
+- **网页下载**：[aitoutou.com/3550.html](https://www.aitoutou.com/3550.html?v=AiTouTouWin_v2.2.7)
 
 ---
 
@@ -74,5 +74,4 @@
 3. **安装应用** — 在文件管理器中找到下载的 APK 并点击安装
 
 ### TV 设备
-建议使用 U 盘安装或通过 ADB 命令安装到电视：
-```bash
+建议使用 U 盘安装或通过 ADB 命令安装到电视
