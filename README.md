@@ -60,8 +60,8 @@
 - **网页下载**：[aitoutou.com/3550.html](https://www.aitoutou.com/3550.html?v=AiTouTouAndroid_v2.5.5)
 
 ### Windows 版
-- **最新版本**：v2.5.5
-- **下载地址**：[AiTouTouWin_v2.5.5.exe](https://gh-proxy.org/https://github.com/aitoutou-com/aitoutou/releases/download/v2.5.5/AiTouTouWin_v2.5.5.exe)
+- **最新版本**：v2.5.6
+- **下载地址**：[AiTouTouWin_v2.5.5.exe](https://gh-proxy.org/https://github.com/aitoutou-com/aitoutou/releases/download/v2.5.5/AiTouTouWin_v2.5.6.exe)
 - **网页下载**：[aitoutou.com/3550.html](https://www.aitoutou.com/3550.html?v=AiTouTouWin_v2.5.5)
 
 ---
