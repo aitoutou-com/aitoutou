@@ -75,7 +75,7 @@
 
 ### 飞牛音乐 版
 - **最新版本**：v2.7.7
-- **下载地址**：[aitoutou-fn-music-v2.7.6.fpk](https://gh-proxy.org/https://github.com/aitoutou-com/aitoutou/releases/download/v2.7.6/aitoutou-fn-music-v2.7.7.fpk)
+- **下载地址**：[aitoutou-fn-music-v2.7.7.fpk](https://gh-proxy.org/https://github.com/aitoutou-com/aitoutou/releases/download/v2.7.6/aitoutou-fn-music-v2.7.7.fpk)
 - **网页下载**：[aitoutou.com/3550.html](https://www.aitoutou.com/3550.html?v=AiTouTou-fnmusic_v2.7.6)
 
 
