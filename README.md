@@ -2,7 +2,7 @@
 
 > 专为 Android TV 和手机优化的视频应用
 
-![Version](https://img.shields.io/badge/version-2.7.6-blue)
+![Version](https://img.shields.io/badge/version-2.7.8-blue)
 ![Platform](https://img.shields.io/badge/platform-Android%20TV%20%7C%20Phone-green)
 ![API](https://img.shields.io/badge/API-21%2B-orange)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
@@ -64,19 +64,19 @@
 ## ⬇️ 下载安装
 
 ### 安卓版
-- **最新版本**：v2.7.6
-- **下载地址**：[AiTouTouAndroid_v2.7.6.apk](https://gh-proxy.org/https://github.com/aitoutou-com/aitoutou/releases/download/v2.7.6/AiTouTouAndroid_v2.7.6.apk)
-- **网页下载**：[aitoutou.com/3550.html](https://www.aitoutou.com/3550.html?v=AiTouTouAndroid_v2.7.6)
+- **最新版本**：v2.7.8
+- **下载地址**：[AiTouTouAndroid_v2.7.8.apk](https://gh-proxy.org/https://github.com/aitoutou-com/aitoutou/releases/download/v2.7.8/AiTouTouAndroid_v2.7.8.apk)
+- **网页下载**：[aitoutou.com/3550.html](https://www.aitoutou.com/3550.html?v=AiTouTouAndroid_v2.7.8)
 
 ### Windows 版
-- **最新版本**：v2.7.6
-- **下载地址**：[AiTouTouWin_v2.7.6.exe](https://gh-proxy.org/https://github.com/aitoutou-com/aitoutou/releases/download/v2.7.6/AiTouTouWin_v2.7.6.exe)
-- **网页下载**：[aitoutou.com/3550.html](https://www.aitoutou.com/3550.html?v=AiTouTouWin_v2.7.6)
+- **最新版本**：v2.7.8
+- **下载地址**：[AiTouTouWin_v2.7.8.exe](https://gh-proxy.org/https://github.com/aitoutou-com/aitoutou/releases/download/v2.7.8/AiTouTouWin_v2.7.8.exe)
+- **网页下载**：[aitoutou.com/3550.html](https://www.aitoutou.com/3550.html?v=AiTouTouWin_v2.7.8)
 
 ### 飞牛音乐 版
-- **最新版本**：v2.7.7
-- **下载地址**：[aitoutou-fn-music-v2.7.7.fpk](https://gh-proxy.org/https://github.com/aitoutou-com/aitoutou/releases/download/v2.7.6/aitoutou-fn-music-v2.7.7.fpk)
-- **网页下载**：[aitoutou.com/3550.html](https://www.aitoutou.com/3550.html?v=AiTouTou-fnmusic_v2.7.6)
+- **最新版本**：v2.7.8
+- **下载地址**：[aitoutou-fn-music-v2.7.8.fpk](https://gh-proxy.org/https://github.com/aitoutou-com/aitoutou/releases/download/v2.7.8/aitoutou-fn-music-v2.7.8.fpk)
+- **网页下载**：[aitoutou.com/3550.html](https://www.aitoutou.com/3550.html?v=AiTouTou-fnmusic_v2.7.8)
 
 
 ---
